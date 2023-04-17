@@ -1,0 +1,43 @@
+1:National Education Longitudinal Study (NELS) $ National Education Longitudinal Study $ NELS $ NELS-the Educational Longitudinal Study (ELS) $ Education Longitudinal Study
+2:NOAA Tide Gauge $ NOAA tidal station $ National Water Level Observation Network $ NOAA National Water Level Observation Network $ NOAA water level station $ NOAA tide station
+3:NOAA storm surge inundation $ National Weather Service (NWS) storm surge risk $ Sea, Lake, and Overland Surges from Hurricanes $ NOAA Sea, Lake, and Overland Surges from Hurricanes $ SLOSH model
+4:Coastal Change Analysis Program land cover $ Coastal Change Analysis Program $ NOAA C-CAP $ National Oceanic and Atmospheric Administration C-CAP
+5:Aging Integrated Database (AGID) $ AGID $ Aging Integrated Database
+6:Alzheimer's Disease Neuroimaging Initiative $ Alzheimer's Disease Neuroimaging Initiative (ADNI) $ ADNI $ Alzheimers Disease Neuroimaging Initiative $ ANDI-1 $ ADNI-GO/2
+7:BLSA $ Baltimore Longitudinal Study of Aging (BLSA) $ Baltimore Longitudinal Study of Aging
+8:Agricultural Resources Management Survey $ ARMS Farm Financial and Crop Production Practices $ Agricultural Resource Management Survey
+9:Beginning Postsecondary Students $ Beginning Postsecondary Student $ Beginning Postsecondary Students Longitudinal Study
+10:The National Institute on Aging Genetics of Alzheimer's Disease Data Storage Site $ The National Institute on Aging Genetics of Alzheimer's Disease Data Storage Site (NIAGADS) $ NIAGADS
+11:National Center for Education Statistics Common Core of Data $ Common Core of Data $ NCES Common Core of Data
+12:Survey of Industrial Research and Development $ NSF Survey of Industrial Research and Development $ National Science Foundation Survey of Industrial Research and Development $ National Center for Science and Engineering Statistics Survey of Industrial Research and Development
+13:Baccalaureate and Beyond $ Baccalaureate and Beyond Longitudinal Study
+14:IBTrACS $ International Best Track Archive for Climate Stewardship $ NOAA International Best Track Archive for Climate Stewardship
+15:National Teacher and Principal Survey
+16:National Center for Science and Engineering Statistics Higher Education Research and Development Survey $ National Science Foundation Higher Education Research and Development Survey $ NSF Higher Education Research and Development Survey $ Higher Education Research and Development Survey
+17:NSF Survey of Earned Doctorates $ National Science Foundation Survey of Earned Doctorates $ National Center for Science and Engineering Statistics Survey of Earned Doctorates $ Survey of Earned Doctorates
+18:School Survey on Crime and Safety
+19:World Ocean Database $ National Oceanic and Atmospheric Administration World Ocean Database $ NOAA World Ocean Database
+20:Program for the International Assessment of Adult Competencies$ PIAAC
+21:Early Childhood Longitudinal Study (ECLS)$ Early Childhood Longitudinal Study$ ECLS
+22:NSF Survey of Graduate Students and Postdoctorates in Science and Engineering $ Survey of Graduate Students and Postdoctorates in Science and Engineering $ National Science Foundation Survey of Graduate Students and Postdoctorates in Science and Engineering $ NCSES Survey of Graduate Students and Postdoctorates in Science and Engineering $ National Center for Science and Engineering Statistics Survey of Graduate Students and Postdoctorates in Science and Engineering
+23:International Mathematics and Science Study (TIMSS)$ TIMSS $Trends in International Mathematics and Science Study
+24:NOAA Optimum Interpolation Sea Surface Temperature $ Optimum Interpolation Sea Surface Temperature $ National Oceanic and Atmospheric Administration Optimum Interpolation Sea Surface Temperature $ Sea Surface Temperature - Optimum Interpolation
+25:National Assessment of Education Progress
+26:High School Longitudinal Study
+27:Survey of Doctorate Recipients $ National Center for Science and Engineering Statistics Survey of Doctorate Recipients $ NCSES Survey of Doctorate Recipients $ National Science Foundation Survey of Doctorate Recipients
+28:Rural-Urban Continuum Codes
+29:Survey of Science and Engineering Research Facilities $ National Center for Science and Engineering Statistics Survey of Science and Engineering Research Facilities $ NSF Survey of Science and Engineering Research Facilities $ National Science Foundation Survey of Science and Engineering Research Facilities
+30:FFRDC Research and Development Survey $ NSF FFRDC Research and Development Survey
+31:Survey of State Government Research and Development
+32:ANSS Comprehensive Catalog $ ANSS Comprehensive Earthquake Catalog $ Advanced National Seismic System Comprehensive Catalog $ Advanced National Seismic System (ANSS) Comprehensive Catalog (ComCat)
+33:USDA Census of Agriculture $ NASS Census of Agriculture $ Census of Agriculture
+34:USGS North American Breeding Bird Survey $ BBS $ North American Breeding Bird Survey $ North American Breeding Bird Survey (BBS)
+35:COVID-19 Open Research Data $ COVID-19 Open Research Dataset $ COVID-19 Open Research Dataset (CORD-19) $ CORD-19 $ COVID Open Research Dataset
+36:CCCSL $ Complexity Science Hub COVID-19 Control Strategies List $ Complexity Science Hub COVID-19 Control Strategies List (CCCSL)
+37:Our World in Data COVID-19 $ Our World in Data $ Our World in Data COVID-19 dataset $ COVID-19 Death data $ COVID-19 Deaths data
+38:COVID-19 Precision Medicine Analytics Platform Registry (JH-CROWN) $ COVID-19 Precision Medicine Analytics Platform Registry $ JH-CROWN registry $ JH-CROWN
+39:Characterizing Health Associated Risks, and Your Baseline Disease In SARS-COV-2 (CHARYBDIS) $ Characterizing Health Associated Risks, and Your Baseline Disease In SARS-COV-2 $ CHARYBDIS
+40:COVID-19 genome sequence $ COVID-19 genome sequences $ SARS-CoV-2 full genome sequence $ SARS-CoV-2 complete genome sequence $ 2019-nCoV genome sequences $ genome sequences of SARS-CoV-2 $ 2019-nCoV genome sequence $ genome sequence of SARS-CoV-2 $ genome sequence of COVID-19 $ genome sequences of COVID-19 $ genome sequence of 2019-nCoV $ 2019-nCoV complete genome sequences $ SARS-CoV-2 complete genome sequences $ SARS-CoV-2 genome sequence $ SARS-CoV-2 full genome sequences $ genome sequences of 2019-nCoV $ SARS-CoV-2 genome sequences
+41:COVID-19 Image Data Collection
+42:RSNA International COVID-19 Open Radiology Database (RICORD) $ RSNA International COVID Open Radiology Database $ RICORD $ RSNA International COVID-19 Open Radiology Database
+43:CAS COVID-19 antiviral candidate compounds dataset $ CAS COVID-19 antiviral candidate compounds data set $ CAS COVID-19 antiviral candidate compounds data
