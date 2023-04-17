@@ -14,7 +14,7 @@ Classification Experiments:
 6. mlp_exp.py module can be used to generate MLP-2 on Bert-mean or TF-IDF results. 
 7. To use custome tokenization, cusotme_tokenizer.py module ca be used. It generates the trained tokenizer that you can used to replace or to modify the orignal tokenizer for a language model.
 8. xgb_exp.py module can be used to classify contexts using XGBoosting on bert-mean and tfidf.
-9. ensemble_meta_model_exp.py stacks an ensemble of three MLP-2 detectors each with different settings. First run MLP-2 module using the different settings to create the three models then use ensemble_meta_model_exp to combine them.
+9. ensemble_meta_model_exp.py stacks an ensemble of three MLP-2 detectors each with different settings. First run mlp_exp module using the different settings to create the three models then use ensemble_meta_model_exp to combine them.
 
 NER Experiments:
 10. Moduel ner_exp.py is used to generate ner results using langaue models.
